@@ -1,12 +1,37 @@
-# React + Vite
+# 📱 Apple iPhone Showcase
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An elegant and interactive 3D iPhone showcase built with **React**, **Three.js**, **GSAP**, and **Vite**. Inspired by Apple’s product experience, this project demonstrates animations, scroll effects, and 3D model integration to give users a premium feel.
 
-Currently, two official plugins are available:
+![iPhone Showcase](./assets/images/iphonehomepage.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🔗 Live Demo
+
+🌐 Visit here:[ [https://your-project-name.vercel.app](https://your-project-name.vercel.app)](https://apple-i-phone-six.vercel.app/)
+
+---
+
+## ✨ Features
+
+- 📱 3D iPhone model with color & size switch
+- 🌀 Smooth GSAP scroll animations
+- 🎥 Embedded videos with auto play
+- 📸 Stunning layout inspired by Apple
+- 🌙 Responsive design (mobile/tablet/desktop)
+- ⚡ Fast build with Vite
+
+---
+
+## 🚀 Tech Stack
+
+- **React**
+- **Vite**
+- **Three.js** (`@react-three/fiber`, `@react-three/drei`)
+- **GSAP** (`@gsap/react`)
+- **Tailwind CSS`
+
+---
+
+⭐ Don’t forget to star the repo if you liked it!
+
