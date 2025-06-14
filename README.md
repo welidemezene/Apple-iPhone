@@ -1,37 +1,61 @@
-# 📱 Apple iPhone Showcase
+# 🍎 Apple iPhone 15 Pro - 3D Showcase Website
 
-An elegant and interactive 3D iPhone showcase built with **React**, **Three.js**, **GSAP**, and **Vite**. Inspired by Apple’s product experience, this project demonstrates animations, scroll effects, and 3D model integration to give users a premium feel.
+A sleek and immersive 3D iPhone 15 Pro showcase built with **React**, **Three.js**, **GSAP**, and **Tailwind CSS**.  
+This project demonstrates rich animations, 3D product interaction, scroll-based transitions, and responsive design — inspired by Apple's marketing style.
 
-![iPhone Showcase](./assets/images/iphonehomepage.png)
+## 🚀 Live Demo
 
-
-
-## 🔗 Live Demo
-
-🌐 Visit here:[ [https://your-project-name.vercel.app](https://your-project-name.vercel.app)](https://apple-i-phone-six.vercel.app/)
+👉 [View Live Site](https://apple-i-phone-six.vercel.app/)
 
 ---
 
-## ✨ Features
+## 📸 Screenshots
 
-- 📱 3D iPhone model with color & size switch
-- 🌀 Smooth GSAP scroll animations
-- 🎥 Embedded videos with auto play
-- 📸 Stunning layout inspired by Apple
-- 🌙 Responsive design (mobile/tablet/desktop)
-- ⚡ Fast build with Vite
+### 🖥️ Desktop View
+![iPhone Homepage](./assets/images/iphonehomepage.png)
+
+### 📱 Mobile View
+![iPhone Mobile](./assets/images/iphonemobile.png)
+
+### 📱 Mobile Footer
+![Mobile Footer](./assets/images/iphonemobilefooter.png)
+
+---
+
+## 🧪 Features
+
+- 🌐 **Responsive Design** (mobile-first)
+- 🎬 **Smooth GSAP Animations**
+- 🧲 **3D Model Interaction** (rotate, zoom)
+- 🎥 Scroll-based **video reveal**
+- ⚡ Built with **React + Vite + Tailwind CSS**
+- 🧩 Organized modular component structure
 
 ---
 
-## 🚀 Tech Stack
+## 🛠️ Tech Stack
 
-- **React**
-- **Vite**
-- **Three.js** (`@react-three/fiber`, `@react-three/drei`)
-- **GSAP** (`@gsap/react`)
-- **Tailwind CSS`
+- **React** + **Vite**
+- **GSAP** for animations
+- **Three.js** with `@react-three/fiber` for 3D rendering
+- **Tailwind CSS** for modern utility-based styling
+- **React Router** (if needed for navigation)
 
 ---
+
+## 🗂️ Project Structure
+
+Apple-iPhone/
+├── public/
+│ └── assets/
+│ └── images/
+│ └── iphonehomepage.png
+├── src/
+│ └── components/
+│ └── utils/
+│ └── App.jsx
+│ └── main.jsx
+├── index.html
+└── README.md
 
 ⭐ Don’t forget to star the repo if you liked it!
-
