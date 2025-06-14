@@ -12,8 +12,7 @@ This project demonstrates rich animations, 3D product interaction, scroll-based 
 ## 🖥️ Desktop View
 ![iPhone Homepage](./public/assets/images/iphonehomepage.png)
 
-### 📱 Mobile View
-![iPhone Mobile](./public/assets/images/iphonemobile.png)
+
 
 ### 📱 Mobile Footer
 ![Mobile Footer](./public/assets/images/iphonemobilefooter.png)
