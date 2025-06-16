@@ -17,8 +17,7 @@ A visually stunning and fully responsive clone of the official [Apple iPhone 15 
 ![iPhone Homepage](./public/assets/images/iphonemobilefooter.png)
 
 ### Mobile Footer View
-![iPhone Mobile Footer](./public/assets/image/iphonemobilefooter.png)
-
+![iPhone Homepage](./public/assets/images/iphonemobile.png).
 > 💡 *Place your screenshots inside `public/screenshots/` folder with the correct filenames (`desktop.png`, `mobile.png`), or update the paths above.*
 
 ---
