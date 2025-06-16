@@ -8,19 +8,18 @@
   box-sizing: border-box;
 }
 
-body {
-  color: white;
-  /* width: 100dvw; */ /* Comment this out or remove */
-  /* overflow-x: hidden; */
-  height: 100%;
+html, body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  width: 100%;
+  min-height: 100vh;
+  overflow-x: hidden;
   background: #000;
-  border-color: #3b3b3b;
+  color: white;
   user-select: none;
 }
-html {
-  /* overflow-x: hidden; */
-  min-height: 100%;
-}
+
 
 
 
