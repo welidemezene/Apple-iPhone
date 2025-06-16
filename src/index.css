@@ -11,14 +11,15 @@
 body {
   color: white;
   /* width: 100dvw; */ /* Comment this out or remove */
-  overflow-x: hidden;
+  /* overflow-x: hidden; */
   height: 100%;
   background: #000;
   border-color: #3b3b3b;
   user-select: none;
 }
 html {
-  overflow-x: hidden;
+  /* overflow-x: hidden; */
+  min-height: 100%;
 }
 
 
