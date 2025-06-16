@@ -11,13 +11,13 @@ A visually stunning and fully responsive clone of the official [Apple iPhone 15 
 ## Screenshots
 
 ### Desktop View
-![iPhone Homepage](.public/assets/images/iphonehomepage.png)
+![iPhone Homepage](./public/assets/images/iphonehomepage.png)
 
 ### Mobile View
-![iPhone Mobile](.public/assets/image/iphonemobile.png)
+![iPhone Mobile](./public/assets/image/iphonemobile.png)
 
 ### Mobile Footer View
-![iPhone Mobile Footer](.public/assets/image/iphonemobilefooter.png)
+![iPhone Mobile Footer](./public/assets/image/iphonemobilefooter.png)
 
 > 💡 *Place your screenshots inside `public/screenshots/` folder with the correct filenames (`desktop.png`, `mobile.png`), or update the paths above.*
 
