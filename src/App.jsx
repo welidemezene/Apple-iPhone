@@ -12,7 +12,7 @@ const App = () => {
   return (
     <main className="bg-black">
       <Navbar />
-      <Hero />
+      {/* <Hero /> */}
       <Highlights />
       <Model />
       <Features />
