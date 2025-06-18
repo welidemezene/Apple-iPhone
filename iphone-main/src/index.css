@@ -8,19 +8,14 @@
   box-sizing: border-box;
 }
 
-html, body {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  width: 100%;
-  min-height: 100vh; /* Uncomment this */
-  overflow-x: hidden; /* Uncomment this */
-  overflow-y: auto; /* Explicit vertical scrolling */
-  -webkit-overflow-scrolling: touch; /* Smooth scrolling on iOS */
-  background: #000;
+body {
   color: white;
-  /* user-select: none; */ /* Consider removing or limiting scope */
-  position: relative; /* Helps with absolute positioning context */
+  width: 100dvw;
+  overflow-x: hidden;
+  height: 100%;
+  background: #000;
+  border-color: #3b3b3b;
+  user-select: none;
 }
 
 canvas {
