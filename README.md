@@ -10,9 +10,6 @@ A visually stunning and fully responsive clone of the official [Apple iPhone 15 
 
 ## Screenshots
 
-### Desktop View
-![iPhone Homepage](./public/assets/images/iphonehomepage.png)
-
 
 ### Mobile Footer View
 ![iPhone Homepage](./public/assets/images/iphonemobile.png).
